@@ -1,5 +1,6 @@
 # LIFI 
- Data Transmission between two PC's  using lifi
+ Data Transmission between two PC's  using lifi <br>
+ In this, we can send bidirectional text data from Computer to another Computer ... <br> Text data can be replaced with any other form later 
 <hr>
 <br>
 
