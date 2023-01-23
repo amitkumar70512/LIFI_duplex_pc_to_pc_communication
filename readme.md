@@ -1,4 +1,4 @@
-# LIFI 
+#1.  LIFI V1 ( simple )
  Data Transmission between two PC's  using lifi <br>
  In this, we can send bidirectional text data from Computer to another Computer ... <br> Text data can be replaced with any other form later 
 <hr>
@@ -41,6 +41,13 @@ https://user-images.githubusercontent.com/71318008/209642359-cc2e01ac-42c9-4353-
 
 
 <hr>
+
+
+
+# LIFI V2 ( using softwareSerial)
+
+###  Fast speed, all characters including special characters,numbers, spaces can be transmitted, code is simple
+
 
 ### contributors:
 <br>
